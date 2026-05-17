@@ -7,14 +7,14 @@
 ## 📄 配置详情
 
 #### 📝 mihomo.yaml
-- **路径**: `mihomo.yaml` | **大小**: 25.3 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/loneshu7/mihomo.yaml)
-- **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
+- **路径**: `mihomo.yaml` | **大小**: 26.2 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/loneshu7/mihomo.yaml)
+- **模式**: rule | **TUN**: ✅ | **IPv6**: 🚫
 <details>
-<summary>🔍 策略组 (69个)</summary>
+<summary>🔍 策略组 (68个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
-| 👆 🌐代理 | `select` |
+| 👆 Proxies | `select` |
 | 👆 🟢故障转移 | `select` |
 | 👆 🟣故障转移 | `select` |
 | 👆 🔶自动选择 | `select` |
@@ -31,8 +31,8 @@
 | 👆 Netflix | `select` |
 | 👆 YouTube | `select` |
 | 👆 Emby | `select` |
-| 👆 Streaming | `select` |
 | 👆 Cloudflare | `select` |
 | 👆 Epic | `select` |
-| ... | 还有 49 个 |
+| 👆 Steam | `select` |
+| ... | 还有 48 个 |
 </details>

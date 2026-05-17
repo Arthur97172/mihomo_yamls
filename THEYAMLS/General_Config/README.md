@@ -8,13 +8,13 @@
 
 | 特性 | `config.yaml` | `config.yaml` | `ConfigForClash.yaml` | `mihomo.yaml` | `Clashmi.yaml` | `Clashmi-fx.yaml` | `2-subscription-clash-rule-set.yaml` | `base-clash-ruleset.yaml` | `3-subscription-clash-rule-set.yaml` | `Clash_Sample.yaml` | `backup.yaml` | `MihomoAIO.yaml` | `MihomoProMax.yaml` | `MihomoProPlus.yaml` | `config.yaml` | `config.yaml` | `config.yaml` | `Clash-Airport.yaml` | `us_la.yaml` | `Clash.yaml` | `mihomo.yaml` | `MihomoPro_Config.yaml` | `OneTouch_Config.yaml` | `clash-fallback-std.yaml` | `clash-fallback-dialer.yaml` | `clash-fallback.yaml` | `clash-all-fallback.yaml` | `clash-fallback-all.yaml` | `config_lite.yaml` | `config.yaml` | `Seven1_fallback_Rule-Set.yaml` | `Seven1_fallback_Geo.yaml` | `AIO.yaml` | `AIB.yaml` | `mihomo.yaml` | `mihomo_multi.yaml` | `mihomo_single.yaml` | `configfull.yaml` | `configfull_lite.yaml` | `configfull_NoAd.yaml` | `mihomo.yaml` | `mihomoconfig.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 22.7 KB | 13.8 KB | 49.3 KB | 5.9 KB | 18.1 KB | 17.4 KB | 13.4 KB | 11.5 KB | 13.9 KB | 8.4 KB | 12.5 KB | 30.1 KB | 27.4 KB | 27.9 KB | 28.5 KB | 12.8 KB | 18.7 KB | 17.5 KB | 18.5 KB | 27.3 KB | 15.8 KB | 22.6 KB | 12.4 KB | 17.3 KB | 16.3 KB | 15.9 KB | 17.2 KB | 18.6 KB | 2.9 KB | 8.1 KB | 22.1 KB | 19.5 KB | 10.8 KB | 11.0 KB | 25.3 KB | 12.7 KB | 12.4 KB | 34.6 KB | 17.7 KB | 34.1 KB | 15.7 KB | 19.8 KB |
+| **大小** | 22.7 KB | 13.8 KB | 49.3 KB | 5.9 KB | 18.9 KB | 18.2 KB | 13.4 KB | 11.5 KB | 13.9 KB | 8.4 KB | 12.5 KB | 30.1 KB | 27.4 KB | 27.9 KB | 28.5 KB | 12.8 KB | 18.7 KB | 17.5 KB | 18.5 KB | 27.3 KB | 15.8 KB | 22.6 KB | 12.4 KB | 17.3 KB | 16.3 KB | 15.9 KB | 17.2 KB | 18.6 KB | 2.9 KB | 8.1 KB | 24.0 KB | 20.8 KB | 10.8 KB | 11.0 KB | 26.2 KB | 12.7 KB | 12.4 KB | 34.6 KB | 17.7 KB | 34.1 KB | 16.0 KB | 19.8 KB |
 | **混合端口** | 7890 | 7890 | 7892 | 8899 | 7893 | 7893 | - | - | - | 7892 | 7892 | 7893 | 7893 | 7893 | 7893 | 7890 | 7892 | - | - | 7890 | 7890 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7890 | 7890 | 7890 | 7897 | 7897 | 7890 | 7890 | 7890 | 0 | - |
 | **面板地址** | 0.0.0.0:9090 | :9090 | 0.0.0.0:9090 | - | 127.0.0.1:9092 | 127.0.0.1:9092 | - | - | - | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | - | 127.0.0.1:9090 | 127.0.0.1:9092 | 127.0.0.1:9092 | :9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | - | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:7891 | - | - | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | [::]:9090 |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | Rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule |
 | **TUN** | 🚫 | 🚫 | 🚫 | 🚫 | ✅ | ✅ | 🚫 | 🚫 | 🚫 | ✅ | ✅ | 🚫 | 🚫 | 🚫 | ✅ | ✅ | 🚫 | ✅ | ✅ | 🚫 | ✅ | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **策略组** | **49** | **29** | **62** | **9** | **25** | **25** | **37** | **27** | **38** | **15** | **22** | **61** | **54** | **54** | **25** | **26** | **13** | **23** | **15** | **27** | **29** | **52** | **15** | **36** | **35** | **34** | **53** | **61** | **1** | **18** | **40** | **40** | **23** | **24** | **69** | **33** | **33** | **62** | **47** | **59** | **23** | **34** |
-| **规则数** | **30** | **33** | **62** | **12** | **35** | **35** | **20** | **17** | **20** | **11** | **25** | **52** | **45** | **44** | **35** | **23** | **37** | **36** | **34** | **68** | **27** | **40** | **23** | **43** | **43** | **43** | **42** | **53** | **16** | **26** | **27** | **27** | **34** | **34** | **30** | **22** | **22** | **98** | **38** | **97** | **31** | **42** |
+| **策略组** | **49** | **29** | **62** | **9** | **25** | **25** | **37** | **27** | **38** | **15** | **22** | **61** | **54** | **54** | **25** | **26** | **13** | **23** | **15** | **27** | **29** | **52** | **15** | **36** | **35** | **34** | **53** | **61** | **1** | **18** | **43** | **43** | **23** | **24** | **68** | **33** | **33** | **62** | **47** | **59** | **25** | **34** |
+| **规则数** | **30** | **33** | **62** | **12** | **35** | **35** | **20** | **17** | **20** | **11** | **25** | **52** | **45** | **44** | **35** | **23** | **37** | **36** | **34** | **68** | **27** | **40** | **23** | **43** | **43** | **43** | **42** | **53** | **16** | **26** | **29** | **29** | **34** | **34** | **58** | **22** | **22** | **98** | **38** | **97** | **32** | **42** |
 
 ## 📄 配置详情
 
@@ -662,24 +662,26 @@
 ### 👤 Seven1echo
 
 #### 📝 Seven1_fallback_Rule-Set.yaml
-- **路径**: `Seven1echo/Seven1_fallback_Rule-Set.yaml` | **大小**: 22.1 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Seven1echo/Seven1_fallback_Rule-Set.yaml)
+- **路径**: `Seven1echo/Seven1_fallback_Rule-Set.yaml` | **大小**: 24.0 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Seven1echo/Seven1_fallback_Rule-Set.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (40个)</summary>
+<summary>🔍 策略组 (43个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
 | 👆 一键代理 | `select` |
+| 👆 ChatGPT | `select` |
+| 👆 Claude | `select` |
+| 👆 Gemini | `select` |
 | 👆 YouTube | `select` |
 | 👆 Google | `select` |
-| 👆 ChatGPT | `select` |
 | 👆 GitHub | `select` |
 | 👆 OneDrive | `select` |
 | 👆 Microsoft | `select` |
 | 👆 AppleTV | `select` |
 | 👆 Apple | `select` |
 | 👆 TikTok | `select` |
-| 👆 Twitter | `select` |
+| 👆 Twitter(X) | `select` |
 | 👆 Telegram | `select` |
 | 👆 Netflix | `select` |
 | 👆 Disney | `select` |
@@ -687,30 +689,30 @@
 | 👆 PayPal | `select` |
 | 👆 Speedtest | `select` |
 | 👆 漏网之鱼 | `select` |
-| 🔧 香港故转 | `fallback` |
-| 👆 香港手动 | `select` |
-| ... | 还有 20 个 |
+| ... | 还有 23 个 |
 </details>
 
 #### 📝 Seven1_fallback_Geo.yaml
-- **路径**: `Seven1echo/Seven1_fallback_Geo.yaml` | **大小**: 19.5 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Seven1echo/Seven1_fallback_Geo.yaml)
+- **路径**: `Seven1echo/Seven1_fallback_Geo.yaml` | **大小**: 20.8 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Seven1echo/Seven1_fallback_Geo.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (40个)</summary>
+<summary>🔍 策略组 (43个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
 | 👆 一键代理 | `select` |
+| 👆 ChatGPT | `select` |
+| 👆 Claude | `select` |
+| 👆 Gemini | `select` |
 | 👆 YouTube | `select` |
 | 👆 Google | `select` |
-| 👆 ChatGPT | `select` |
 | 👆 GitHub | `select` |
 | 👆 OneDrive | `select` |
 | 👆 Microsoft | `select` |
 | 👆 AppleTV | `select` |
 | 👆 Apple | `select` |
 | 👆 TikTok | `select` |
-| 👆 Twitter | `select` |
+| 👆 Twitter(X) | `select` |
 | 👆 Telegram | `select` |
 | 👆 Netflix | `select` |
 | 👆 Disney | `select` |
@@ -718,9 +720,7 @@
 | 👆 PayPal | `select` |
 | 👆 Speedtest | `select` |
 | 👆 漏网之鱼 | `select` |
-| 🔧 香港故转 | `fallback` |
-| 👆 香港手动 | `select` |
-| ... | 还有 20 个 |
+| ... | 还有 23 个 |
 </details>
 
 ---
@@ -749,7 +749,7 @@
 ### 👤 bgpeer
 
 #### 📝 Clashmi.yaml
-- **路径**: `bgpeer/Clashmi.yaml` | **大小**: 18.1 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/bgpeer/Clashmi.yaml)
+- **路径**: `bgpeer/Clashmi.yaml` | **大小**: 18.9 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/bgpeer/Clashmi.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (25个)</summary>
@@ -780,7 +780,7 @@
 </details>
 
 #### 📝 Clashmi-fx.yaml
-- **路径**: `bgpeer/Clashmi-fx.yaml` | **大小**: 17.4 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/bgpeer/Clashmi-fx.yaml)
+- **路径**: `bgpeer/Clashmi-fx.yaml` | **大小**: 18.2 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/bgpeer/Clashmi-fx.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (25个)</summary>
@@ -814,10 +814,10 @@
 ### 👤 echs-top
 
 #### 📝 mihomo.yaml
-- **路径**: `echs-top/mihomo.yaml` | **大小**: 15.7 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/echs-top/mihomo.yaml)
+- **路径**: `echs-top/mihomo.yaml` | **大小**: 16.0 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/echs-top/mihomo.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (23个)</summary>
+<summary>🔍 策略组 (25个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
@@ -825,6 +825,8 @@
 | 👆 直接连接 | `select` |
 | 👆 代理QUIC | `select` |
 | 👆 代理DNS | `select` |
+| 👆 广告拦截 | `select` |
+| 👆 FCM服务 | `select` |
 | 👆 人机验证 | `select` |
 | 👆 国外AI | `select` |
 | 👆 TELEGRAM | `select` |
@@ -839,9 +841,7 @@
 | 🔧 韩国&#124;故障转移 | `fallback` |
 | 🔧 美国&#124;故障转移 | `fallback` |
 | 🔧 加拿大&#124;故障转移 | `fallback` |
-| 🔧 德国&#124;故障转移 | `fallback` |
-| 🔧 英国&#124;故障转移 | `fallback` |
-| ... | 还有 3 个 |
+| ... | 还有 5 个 |
 </details>
 
 ---
@@ -1133,14 +1133,14 @@
 ### 👤 loneshu7
 
 #### 📝 mihomo.yaml
-- **路径**: `loneshu7/mihomo.yaml` | **大小**: 25.3 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/loneshu7/mihomo.yaml)
-- **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
+- **路径**: `loneshu7/mihomo.yaml` | **大小**: 26.2 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/loneshu7/mihomo.yaml)
+- **模式**: rule | **TUN**: ✅ | **IPv6**: 🚫
 <details>
-<summary>🔍 策略组 (69个)</summary>
+<summary>🔍 策略组 (68个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
-| 👆 🌐代理 | `select` |
+| 👆 Proxies | `select` |
 | 👆 🟢故障转移 | `select` |
 | 👆 🟣故障转移 | `select` |
 | 👆 🔶自动选择 | `select` |
@@ -1157,10 +1157,10 @@
 | 👆 Netflix | `select` |
 | 👆 YouTube | `select` |
 | 👆 Emby | `select` |
-| 👆 Streaming | `select` |
 | 👆 Cloudflare | `select` |
 | 👆 Epic | `select` |
-| ... | 还有 49 个 |
+| 👆 Steam | `select` |
+| ... | 还有 48 个 |
 </details>
 
 ---

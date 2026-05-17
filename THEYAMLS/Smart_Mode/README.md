@@ -8,13 +8,13 @@
 
 | 特性 | `OneSmartProMCX.yaml` | `MihomoSmartAIO.yaml` | `MihomoSmartProMax.yaml` | `THESmart.yaml` | `MihomoSmartProPlus.yaml` | `smart.yaml` | `OneSmart_Config.yaml` | `OneSmart_Lite_Config.yaml` | `clash-fallback-smart-std.yaml` | `clash-all-smart.yaml` | `clash-all-fallback-smart.yaml` | `mihomo_smart.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 40.1 KB | 32.1 KB | 25.1 KB | 24.9 KB | 25.7 KB | 13.0 KB | 20.1 KB | 12.5 KB | 17.7 KB | 15.1 KB | 18.2 KB | 16.1 KB |
+| **大小** | 38.2 KB | 32.1 KB | 25.1 KB | 24.9 KB | 25.7 KB | 13.0 KB | 20.1 KB | 12.5 KB | 17.7 KB | 15.1 KB | 18.2 KB | 16.4 KB |
 | **混合端口** | 7893 | 7893 | 7893 | 7893 | 7893 | 7890 | 7893 | 7893 | 7893 | 7893 | 7893 | 0 |
 | **面板地址** | 0.0.0.0:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | - | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule |
 | **TUN** | ✅ | 🚫 | 🚫 | ✅ | 🚫 | ✅ | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ |
-| **策略组** | **37** | **69** | **41** | **40** | **41** | **28** | **31** | **16** | **36** | **38** | **57** | **23** |
-| **规则数** | **98** | **52** | **45** | **43** | **44** | **23** | **36** | **21** | **42** | **43** | **48** | **31** |
+| **策略组** | **38** | **69** | **41** | **40** | **41** | **28** | **31** | **16** | **36** | **38** | **57** | **25** |
+| **规则数** | **90** | **52** | **45** | **43** | **44** | **23** | **36** | **21** | **42** | **43** | **48** | **32** |
 
 ## 📄 配置详情
 
@@ -208,10 +208,10 @@
 ### 👤 echs-top
 
 #### 📝 mihomo_smart.yaml
-- **路径**: `echs-top/mihomo_smart.yaml` | **大小**: 16.1 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/echs-top/mihomo_smart.yaml)
+- **路径**: `echs-top/mihomo_smart.yaml` | **大小**: 16.4 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/echs-top/mihomo_smart.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (23个)</summary>
+<summary>🔍 策略组 (25个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
@@ -219,6 +219,8 @@
 | 👆 直接连接 | `select` |
 | 👆 代理QUIC | `select` |
 | 👆 代理DNS | `select` |
+| 👆 广告拦截 | `select` |
+| 👆 FCM服务 | `select` |
 | 👆 人机验证 | `select` |
 | 👆 国外AI | `select` |
 | 👆 TELEGRAM | `select` |
@@ -233,19 +235,17 @@
 | 👆 韩国&#124;智能选择 | `smart` |
 | 👆 美国&#124;智能选择 | `smart` |
 | 👆 加拿大&#124;智能选择 | `smart` |
-| 👆 德国&#124;智能选择 | `smart` |
-| 👆 英国&#124;智能选择 | `smart` |
-| ... | 还有 3 个 |
+| ... | 还有 5 个 |
 </details>
 
 ---
 ### 👤 edison
 
 #### 📝 OneSmartProMCX.yaml
-- **路径**: `edison/OneSmartProMCX.yaml` | **大小**: 40.1 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/edison/OneSmartProMCX.yaml)
+- **路径**: `edison/OneSmartProMCX.yaml` | **大小**: 38.2 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/edison/OneSmartProMCX.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (37个)</summary>
+<summary>🔍 策略组 (38个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
@@ -255,6 +255,7 @@
 | 👆 Streaming | `select` |
 | 👆 Google | `select` |
 | 👆 Microsoft | `select` |
+| 👆 Speedtest | `select` |
 | 👆 TikTok | `select` |
 | 👆 Emby | `select` |
 | 👆 PayPal | `select` |
@@ -268,8 +269,7 @@
 | 🔧 台湾-故转 | `fallback` |
 | 🔧 日本-故转 | `fallback` |
 | 🔧 狮城-故转 | `fallback` |
-| 🔧 美国-故转 | `fallback` |
-| ... | 还有 17 个 |
+| ... | 还有 18 个 |
 </details>
 
 ---
