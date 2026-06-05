@@ -8,20 +8,20 @@
 
 | 特性 | `configfull_NoAd.yaml` | `configfull.yaml` | `configfull_lite.yaml` | `config.yaml` | `mihomo_multi.yaml` | `mihomo_single.yaml` | `MihomoProPlus.yaml` | `MihomoProMax.yaml` | `MihomoAIO.yaml` | `clash-fallback-std.yaml` | `clash-all-fallback.yaml` | `clash-fallback-all.yaml` | `clash-fallback.yaml` | `clash-fallback-dialer.yaml` | `config.yaml` | `config.yaml` | `mihomoconfig.yaml` | `mihomo.yaml` | `config.yaml` | `AIO.yaml` | `AIB.yaml` | `mihomo.yaml` | `Clash_Sample.yaml` | `backup.yaml` | `3-subscription-clash-rule-set.yaml` | `base-clash-ruleset.yaml` | `2-subscription-clash-rule-set.yaml` | `ConfigForClash.yaml` | `mihomo.yaml` | `Seven1_fallback_Rule-Set.yaml` | `Seven1_fallback_Geo.yaml` | `config_lite.yaml` | `config.yaml` | `mihomo.yaml` | `Clashmi.yaml` | `Clashmi-fx.yaml` | `MihomoPro_Config.yaml` | `OneTouch_Config.yaml` | `Clash.yaml` | `config.yaml` | `us_la.yaml` | `Clash-Airport.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 34.1 KB | 34.6 KB | 17.7 KB | 13.8 KB | 12.7 KB | 12.4 KB | 26.2 KB | 25.7 KB | 28.3 KB | 17.3 KB | 17.2 KB | 18.6 KB | 15.9 KB | 16.3 KB | 12.8 KB | 18.7 KB | 21.8 KB | 5.9 KB | 23.3 KB | 10.8 KB | 11.0 KB | 15.8 KB | 8.4 KB | 12.5 KB | 13.9 KB | 11.5 KB | 13.4 KB | 49.3 KB | 24.8 KB | 24.0 KB | 20.8 KB | 2.9 KB | 8.1 KB | 12.3 KB | 19.4 KB | 18.7 KB | 22.2 KB | 12.1 KB | 27.3 KB | 28.5 KB | 18.5 KB | 17.5 KB |
+| **大小** | 34.1 KB | 34.6 KB | 17.7 KB | 13.8 KB | 12.7 KB | 12.4 KB | 26.2 KB | 25.7 KB | 28.3 KB | 17.3 KB | 17.2 KB | 18.6 KB | 15.9 KB | 16.3 KB | 12.8 KB | 18.7 KB | 23.8 KB | 5.8 KB | 23.3 KB | 10.8 KB | 11.0 KB | 15.8 KB | 8.4 KB | 12.5 KB | 13.9 KB | 11.5 KB | 13.4 KB | 49.3 KB | 24.8 KB | 24.0 KB | 20.8 KB | 2.9 KB | 8.1 KB | 11.0 KB | 19.4 KB | 18.7 KB | 22.3 KB | 12.2 KB | 27.3 KB | 28.5 KB | 18.5 KB | 17.5 KB |
 | **混合端口** | 7890 | 7890 | 7890 | 7890 | 7897 | 7897 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7890 | 7892 | - | 8899 | 7890 | 7890 | 7890 | 7890 | 7892 | 7892 | - | - | - | 7892 | 7890 | 7893 | 7893 | 7893 | 7893 | 0 | 7893 | 7893 | 7893 | 7893 | 7890 | 7893 | - | - |
 | **面板地址** | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | :9090 | - | - | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | 127.0.0.1:9090 | [::]:9090 | - | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | - | - | 0.0.0.0:9090 | 0.0.0.0:7891 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | - | - | 127.0.0.1:9092 | 127.0.0.1:9092 | 127.0.0.1:9090 | 127.0.0.1:9090 | :9090 | 127.0.0.1:9090 | 127.0.0.1:9092 | 127.0.0.1:9092 |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | Rule | rule | rule | rule |
 | **TUN** | ✅ | ✅ | ✅ | 🚫 | ✅ | ✅ | 🚫 | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | ✅ | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | 🚫 | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | 🚫 | 🚫 | ✅ | ✅ | ✅ |
-| **策略组** | **59** | **62** | **47** | **29** | **33** | **33** | **54** | **54** | **61** | **36** | **53** | **61** | **34** | **35** | **26** | **13** | **46** | **9** | **49** | **23** | **24** | **29** | **15** | **22** | **38** | **27** | **37** | **62** | **68** | **43** | **43** | **1** | **18** | **21** | **26** | **26** | **51** | **14** | **27** | **25** | **15** | **23** |
-| **规则数** | **97** | **98** | **38** | **33** | **22** | **22** | **44** | **45** | **52** | **43** | **42** | **53** | **43** | **43** | **23** | **37** | **41** | **12** | **30** | **34** | **34** | **27** | **11** | **25** | **20** | **17** | **20** | **62** | **41** | **29** | **29** | **16** | **26** | **22** | **36** | **36** | **40** | **23** | **68** | **35** | **34** | **36** |
+| **策略组** | **59** | **62** | **47** | **29** | **33** | **33** | **54** | **54** | **61** | **36** | **53** | **61** | **34** | **35** | **26** | **13** | **46** | **9** | **49** | **23** | **24** | **29** | **15** | **22** | **38** | **27** | **37** | **62** | **68** | **43** | **43** | **1** | **18** | **19** | **26** | **26** | **51** | **14** | **27** | **25** | **15** | **23** |
+| **规则数** | **97** | **98** | **38** | **33** | **22** | **22** | **44** | **45** | **52** | **43** | **42** | **53** | **43** | **43** | **23** | **37** | **41** | **12** | **30** | **34** | **34** | **27** | **11** | **25** | **20** | **17** | **20** | **62** | **41** | **29** | **29** | **16** | **26** | **18** | **36** | **36** | **40** | **23** | **68** | **35** | **34** | **36** |
 
 ## 📄 配置详情
 
 ### 👤 666OS
 
 #### 📝 MihomoPro_Config.yaml
-- **路径**: `666OS/MihomoPro_Config.yaml` | **大小**: 22.2 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/666OS/MihomoPro_Config.yaml)
+- **路径**: `666OS/MihomoPro_Config.yaml` | **大小**: 22.3 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/666OS/MihomoPro_Config.yaml)
 - **模式**: rule | **TUN**: 🚫 | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (51个)</summary>
@@ -52,7 +52,7 @@
 </details>
 
 #### 📝 OneTouch_Config.yaml
-- **路径**: `666OS/OneTouch_Config.yaml` | **大小**: 12.1 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/666OS/OneTouch_Config.yaml)
+- **路径**: `666OS/OneTouch_Config.yaml` | **大小**: 12.2 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/666OS/OneTouch_Config.yaml)
 - **模式**: rule | **TUN**: 🚫 | **IPv6**: 🚫
 <details>
 <summary>🔍 策略组 (14个)</summary>
@@ -79,7 +79,7 @@
 ### 👤 AIsouler
 
 #### 📝 mihomoconfig.yaml
-- **路径**: `AIsouler/mihomoconfig.yaml` | **大小**: 21.8 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/AIsouler/mihomoconfig.yaml)
+- **路径**: `AIsouler/mihomoconfig.yaml` | **大小**: 23.8 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/AIsouler/mihomoconfig.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (46个)</summary>
@@ -726,7 +726,7 @@
 ### 👤 ameyukisora
 
 #### 📝 mihomo.yaml
-- **路径**: `ameyukisora/mihomo.yaml` | **大小**: 5.9 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/ameyukisora/mihomo.yaml)
+- **路径**: `ameyukisora/mihomo.yaml` | **大小**: 5.8 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/ameyukisora/mihomo.yaml)
 - **模式**: rule | **TUN**: 🚫 | **IPv6**: 🚫
 <details>
 <summary>🔍 策略组 (9个)</summary>
@@ -813,21 +813,19 @@
 ### 👤 echs-top
 
 #### 📝 mihomo.yaml
-- **路径**: `echs-top/mihomo.yaml` | **大小**: 12.3 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/echs-top/mihomo.yaml)
+- **路径**: `echs-top/mihomo.yaml` | **大小**: 11.0 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/echs-top/mihomo.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (21个)</summary>
+<summary>🔍 策略组 (19个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
 | 👆 代理连接 | `select` |
+| 👆 直接连接 | `select` |
 | 👆 代理DNS | `select` |
-| 👆 人机验证 | `select` |
+| 👆 代理QUIC | `select` |
 | 👆 国外AI | `select` |
 | 👆 TELEGRAM | `select` |
-| 👆 国外媒体 | `select` |
-| 👆 GOOGLE | `select` |
-| 👆 TRACKER | `select` |
 | ♻️ 最低延迟 | `url-test` |
 | 🔧 香港&#124;故障转移 | `fallback` |
 | 🔧 台湾&#124;故障转移 | `fallback` |
@@ -840,7 +838,7 @@
 | 🔧 英国&#124;故障转移 | `fallback` |
 | 🔧 法国&#124;故障转移 | `fallback` |
 | 🔧 荷兰&#124;故障转移 | `fallback` |
-| ... | 还有 1 个 |
+| 👆 GLOBAL | `select` |
 </details>
 
 ---
